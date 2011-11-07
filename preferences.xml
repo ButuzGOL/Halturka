@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <host>localhost</host>
+    <databasename>halturka</databasename>
+    <username>postgres</username>
+    <password>1</password>
+    <port>5432</port>
+</database>

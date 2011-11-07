@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/customer.png</file>
+        <file>images/exit.png</file>
+        <file>images/logotip.png</file>
+        <file>images/payment.png</file>
+        <file>images/preferences.png</file>
+        <file>images/work.png</file>
+        <file>images/worker.png</file>
+        <file>images/statistic.png</file>
+    </qresource>
+</RCC>
