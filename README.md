@@ -1,0 +1,2 @@
+# Halturka
+C++ Qt course
